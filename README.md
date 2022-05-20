@@ -4,7 +4,7 @@
 
 Start from a sample project that is unusable for a lot of users with disabilities and make it as accessible as you can! Show the world how easy it is to make accessible apps with SwiftUI, there are no excuses!
 
-- Download the InAccessible sample app code (COMING SOON).
+- Download the [InAccessibility](https://github.com/jordibruin/InAccessibility) sample app code.
 - Your challenge is to adjust the app and make it as accessible and inclusive as possible!
 - You can choose to focus on a particular type of accessibility technique, or go for a more broad approach
 - Create a new public repo and write a short piece of text or record a short video explaining your approach
