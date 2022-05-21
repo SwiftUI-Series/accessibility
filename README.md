@@ -21,6 +21,6 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner |
  | ------------- |:----------------:| ------------------------------------------------:|--------:|
-| [Link to repo]()  | Jordi Bruin     | [Twitter](https://www.twitter.com/jordibruin)    | Pro |
+| [Link to repo here]()  | Jordi Bruin     | [Twitter](https://www.twitter.com/jordibruin)    | Pro |
 
 
