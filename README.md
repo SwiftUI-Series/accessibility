@@ -11,6 +11,8 @@ Start from a sample project that is unusable for a lot of users with disabilitie
 - Upload your improved version of the InAccessible app to a public GitHub repo and add it to this repo in a PR.
 - The judges will check your app for accessibility and inclusiveness. We'll look for the obvious things such as Dynamic Type, but surprise us! If there's anything in particular you'd like the judges to look out for, be sure to mention it.
          
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/170948/169714433-0f8ca39d-d063-4196-b554-eccfa4a4f251.png">
+
 # How to participate
 
 - Download the sample project here
