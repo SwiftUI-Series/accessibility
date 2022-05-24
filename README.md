@@ -23,7 +23,5 @@ Once you've uploaded your code to a public GitHub repo, make a PR and add a link
 
 | Link to Code  | Attendee Name    | Twitter                                   | Pro / Beginner |
  | ------------- |:----------------:| ------------------------------------------------:|--------:|
-| [Link to repo here (example)]()  | Jordi Bruin     | [Twitter](https://www.twitter.com/jordibruin)    | Pro |
-| [InAccessibility-cwu](https://github.com/shiftingsand/InAccessibility-cwu) | Chris Wu | [Twitter](https://twitter.com/MuseumShuffle) | Pretty Good (NOT Pro) | 
-
-
+ | [Link to repo here](https://github.com/chFlorian/InAccessibility)  | Florian Schweizer     | [Twitter](https://www.twitter.com/flowritescode)    | Beginner |
+ | [InAccessibility-cwu](https://github.com/shiftingsand/InAccessibility-cwu) | Chris Wu | [Twitter](https://twitter.com/MuseumShuffle) | Pretty Good (NOT Pro) | 
